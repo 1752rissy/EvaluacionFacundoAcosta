@@ -8,5 +8,21 @@ namespace Examen
 {
     class OpBusqueda
     {
+        private readonly IBUSQUEDA _ibusqueda;
+
+            public OpBusqueda(IBUSQUEDA opbusqueda)
+        {
+            _ibusqueda = opbusqueda;
+        } 
+
+        public string Busqueda()
+        {
+            return _ibusqueda.buscar();
+        }
+
+        public string BusquedaDni()
+        {
+            return _ibusqueda.buscarDni();
+        }
     }
 }

@@ -8,10 +8,10 @@ namespace Examen
 {
     interface IBUSQUEDA
     {
-        string AlumnoMateria();
+        string buscar();
 
-        string AlumnoDni();
+        string buscarDni();
 
-        string ProfesorDni();
+        
     }
 }

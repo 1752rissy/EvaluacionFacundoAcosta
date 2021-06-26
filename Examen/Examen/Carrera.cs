@@ -6,7 +6,22 @@ using System.Threading.Tasks;
 
 namespace Examen
 {
-    class Carrera
+    class Carrera : IABM
     {
+        string Nombre;
+        public string Alta()
+        {
+            return "Dando de alta esta carrera";
+        }
+
+        public string Baja()
+        {
+            return "Dando de baja esta carrera";
+        }
+
+        public string Modificar()
+        {
+            return "Modificando esta Carrera";
+        }
     }
 }
