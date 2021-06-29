@@ -8,7 +8,9 @@ namespace Examen
 {
     class Carrera : IABM
     {
-        string Nombre;
+        string Nombre; //para que esta la variable ??
+
+        //SIEMPRE LOS NOMBRES DE METODOS DEBEN SER ACCIONES . Insertar, Eliminar, Modificar. 
         public string Alta()
         {
             return "Dando de alta esta carrera";

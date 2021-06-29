@@ -8,6 +8,7 @@ namespace Examen
 {
     class OpBusqueda
     {
+        //Nunca nombre interfaces todo en MAYUSCULA. Tener muy en cuenta esto por favor. 
         private readonly IBUSQUEDA _ibusqueda;
 
             public OpBusqueda(IBUSQUEDA opbusqueda)

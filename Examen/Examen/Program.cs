@@ -10,6 +10,8 @@ namespace Examen
     {
         static void Main(string[] args)
         {
+            //TENER EN CUENTA LOS NOMBRES DE LOS COMPONENTES QUE USA. 
+            //OpBusqueda : no se esta nombrando correctamente a la clase . USE OperacionesBusqueda. NUNCA ABREVIAR LOS NOMBRES. 
             Alumno Facu = new Alumno();
             OpAbm op1 = new OpAbm(Facu);
             OpBusqueda opb1 = new OpBusqueda(Facu);

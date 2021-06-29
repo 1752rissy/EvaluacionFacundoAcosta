@@ -5,3 +5,10 @@ C:\Users\HéctorFabián\source\repos\EvaluacionFacundoAcosta\Examen\Examen\obj\D
 C:\Users\HéctorFabián\source\repos\EvaluacionFacundoAcosta\Examen\Examen\obj\Debug\Examen.csproj.CoreCompileInputs.cache
 C:\Users\HéctorFabián\source\repos\EvaluacionFacundoAcosta\Examen\Examen\obj\Debug\Examen.exe
 C:\Users\HéctorFabián\source\repos\EvaluacionFacundoAcosta\Examen\Examen\obj\Debug\Examen.pdb
+D:\Programacion II - FPotenciar\EVALUACION\Evaluacion Unidad III\EVALUACION FACUNDO\EvaluacionFacundoAcosta\Examen\Examen\bin\Debug\Examen.exe.config
+D:\Programacion II - FPotenciar\EVALUACION\Evaluacion Unidad III\EVALUACION FACUNDO\EvaluacionFacundoAcosta\Examen\Examen\bin\Debug\Examen.exe
+D:\Programacion II - FPotenciar\EVALUACION\Evaluacion Unidad III\EVALUACION FACUNDO\EvaluacionFacundoAcosta\Examen\Examen\bin\Debug\Examen.pdb
+D:\Programacion II - FPotenciar\EVALUACION\Evaluacion Unidad III\EVALUACION FACUNDO\EvaluacionFacundoAcosta\Examen\Examen\obj\Debug\Examen.csprojAssemblyReference.cache
+D:\Programacion II - FPotenciar\EVALUACION\Evaluacion Unidad III\EVALUACION FACUNDO\EvaluacionFacundoAcosta\Examen\Examen\obj\Debug\Examen.csproj.CoreCompileInputs.cache
+D:\Programacion II - FPotenciar\EVALUACION\Evaluacion Unidad III\EVALUACION FACUNDO\EvaluacionFacundoAcosta\Examen\Examen\obj\Debug\Examen.exe
+D:\Programacion II - FPotenciar\EVALUACION\Evaluacion Unidad III\EVALUACION FACUNDO\EvaluacionFacundoAcosta\Examen\Examen\obj\Debug\Examen.pdb
